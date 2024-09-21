@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/dev-saw99">
+    <img src="github-header-image.png" alt="Saw99" width="600" /> <!-- Adjust width as needed -->
+  </a>
+</p>
 
-<!--
-**dev-saw99/dev-saw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dev-saw99&theme=tokyonight-duo&card_width=600" alt="GitHub Streak" /></a>
+  </a>
+</p>
+
