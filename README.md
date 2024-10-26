@@ -17,6 +17,9 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=600" alt="Deko" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" /></a>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" /></a>
   </a>
 </p>
