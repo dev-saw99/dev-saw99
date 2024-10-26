@@ -16,10 +16,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/dev-saw99/deko">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" /></a>
-  </a>
-  <a href="https://github.com/dev-saw99/deko" style="width:400">
-    <a href="https://github.com/dev-saw99/deko"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" /></a>
-  </a>
+    <a href="https://github.com/dev-saw99/deko">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" width="250"/>
+    </a>
 </p>
