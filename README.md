@@ -17,6 +17,9 @@
 
 <p align="center">
     <a href="https://github.com/dev-saw99/deko">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight&card_width=400" alt="Deko" width="250"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight" alt="Deko" width="300"/>
+    </a>
+    <a href="https://github.com/dev-saw99/deko">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&repo=deko&theme=tokyonight" alt="Deko" width="300"/>
     </a>
 </p>
