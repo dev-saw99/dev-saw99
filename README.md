@@ -23,7 +23,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-saw99/dev-saw99/refs/heads/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 <!-- highlighted repos -->
