@@ -26,7 +26,7 @@
 
 
 
-<!-- highlighted repos -->
+<!-- highlighted repos 
 <p align="center">
     <a href="https://github.com/dev-saw99/deko">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-saw99&theme=tokyonight&repo=deko" alt="Deko"  width="48%"/>
@@ -36,4 +36,4 @@
     </a>
 </p>
 
-
+-->
